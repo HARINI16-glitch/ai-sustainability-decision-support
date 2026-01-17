@@ -164,8 +164,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # ---------------- FOOTER ----------------
 st.markdown(
-    "<div class='footer'>AI for Sustainabilitygit init
-</div>",
+    "<div class='footer'>AI for Sustainability</div>",
     unsafe_allow_html=True
 )
 
